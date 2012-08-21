@@ -1,0 +1,8 @@
+Approved+1: James E. Blair <corvus@inaugust.com>
+Code-Review+2: James E. Blair <corvus@inaugust.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 21 Aug 2012 18:05:41 +0000
+Reviewed-on: https://review.openstack.org/11732
+Project: openstack-ci/nose-html-output
+Branch: refs/heads/master
