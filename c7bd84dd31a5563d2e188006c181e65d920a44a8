@@ -1,0 +1,8 @@
+Verified+2: Jenkins
+Approved+1: Clark Boylan <clark.boylan@gmail.com>
+Code-Review+2: Clark Boylan <clark.boylan@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Wed, 22 Aug 2012 23:12:59 +0000
+Reviewed-on: https://review.openstack.org/11808
+Project: openstack-ci/nose-html-output
+Branch: refs/heads/master
