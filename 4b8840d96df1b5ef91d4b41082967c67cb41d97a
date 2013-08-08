@@ -1,0 +1,8 @@
+Approved+1: Monty Taylor <mordred@inaugust.com>
+Code-Review+2: Monty Taylor <mordred@inaugust.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 08 Aug 2013 17:09:52 +0000
+Reviewed-on: https://review.openstack.org/40903
+Project: openstack-infra/nose-html-output
+Branch: refs/heads/master
