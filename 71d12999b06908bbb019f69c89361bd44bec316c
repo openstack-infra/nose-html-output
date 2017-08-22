@@ -1,0 +1,10 @@
+Code-Review+2: Jeremy Stanley <fungi@yuggoth.org>
+Code-Review+1: Thomas Bechtold <tbechtold@suse.com>
+Code-Review+2: Clark Boylan <cboylan@sapwetik.org>
+Workflow+1: Clark Boylan <cboylan@sapwetik.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 22 Aug 2017 16:50:46 +0000
+Reviewed-on: https://review.openstack.org/476456
+Project: openstack-infra/nose-html-output
+Branch: refs/heads/master
