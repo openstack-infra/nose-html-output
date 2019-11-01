@@ -1,0 +1,9 @@
+Code-Review+2: Jens Harbott (frickler) <j.harbott@x-ion.de>
+Code-Review+2: Jeremy Stanley <fungi@yuggoth.org>
+Workflow+1: Jeremy Stanley <fungi@yuggoth.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Fri, 01 Nov 2019 14:50:50 +0000
+Reviewed-on: https://review.opendev.org/692555
+Project: openstack/nose-html-output
+Branch: refs/heads/master
